@@ -1,5 +1,7 @@
 # Some coding memes
+
 [Home](README.md)
+
 ```py
 x= Memes
 print(x + 'woohoo I love those')
