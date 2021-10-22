@@ -1,11 +1,8 @@
 # Some wholesome memes
-< <!DOCTYPE  HTML>
-       <HTML>
-           <HEAD>
-               <TITLE>Enjoy some memes</TITLE>
-
-           </HEAD>
-           <BODY>
-              <p> Content of web page</p>
-           </BODY>
-       </HTML>>
+```
+<div class="row">
+  <div class="col-md-6 col-md-offset-3">
+    <h1>Memes</h1>
+  </div>
+</div>
+```
