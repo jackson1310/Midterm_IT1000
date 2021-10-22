@@ -21,6 +21,6 @@ What Else is on this website?
 -----------------------------
 The following are some spooky links, open them *if you dare*...
 - [Snowmen](Snowmen.md)
-- [Birds](Birds.md)
+- [Birds](birds.md)
 - [Bouncing Ball](ball.md)
 - [Meme](meme.md)
