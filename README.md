@@ -20,7 +20,7 @@ and indominable spirit. Honey badger don't care.
 What Else is on this website?
 -----------------------------
 The following are some spooky links, open them *if you dare*...
-- Snowmen
+- [Snowmen](Snowmen.md)
 - Birds
 - Bouncing Ball
 - Meme
