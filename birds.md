@@ -2,7 +2,7 @@
 [Home](README.md)
 
 ####The birds work with the bourgeoisie
-In the 1960s, during Ronald Reagan's presidency, he had killed almost all birds within America. Those birds were then replaced with many many robotic bird spies that now work with the bourgeoisie.
+In the 1960s, during Ronald Reagan's presidency, he had killed almost all birds within America. Those birds were then replaced with many robotic bird spies that now work with the bourgeoisie.
 
 ![alt text](birds.jpg)
 
