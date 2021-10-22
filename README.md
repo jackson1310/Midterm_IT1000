@@ -1,4 +1,7 @@
 
+---
+title: Home
+---
 A Midterm Project
 =================
 My name is Jackson Maloney and I am student at University of Missouri-Columbia
@@ -13,3 +16,11 @@ Picture Time
 This is a picture of a honey badger. They are known to kill predators much more
 stronger and deadlier than they are, just on the sheer capability of their courage
 and indominable spirit. Honey badger don't care.
+
+What Else is on this website?
+-----------------------------
+The following are some spooky links, open them *if you dare*...
+-Snowmen
+-Birds
+-Bouncing Ball
+-Meme
